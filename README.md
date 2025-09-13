@@ -1,10 +1,6 @@
 # Power BI Sales Dashboard
 
-This project is an interactive **Sales Dashboard** created using **Power BI**, following Avi Singh’s comprehensive Power BI tutorial for beginners. The tutorial covers everything from data import and transformation to visualization, reporting, and publishing on Power BI Service.
-
-📺 [Watch Avi Singh’s Full Power BI Tutorial](https://www.youtube.com/watch?v=AGrl-H87pRU&t=505s)
-
----
+This project covers everything from data import and transformation to visualization, reporting, and publishing on Power BI Service.
 
 ## 📝 Project Overview
 
