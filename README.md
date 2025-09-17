@@ -4,7 +4,7 @@ This project covers everything from data import and transformation to visualizat
 
 ## 📝 Project Overview
 
-In this project, we build a dynamic **Sales Dashboard** using **Power BI Desktop**. The sales data is imported, cleaned, and visualized with a series of techniques and best practices, including:
+In this project, I build a dynamic **Sales Dashboard** using **Power BI Desktop**. The sales data is imported, cleaned, and visualized with a series of techniques and best practices, including:
 
 - **Power Query** for data cleaning and transformation
 - **DAX** (Data Analysis Expressions) for advanced calculations
